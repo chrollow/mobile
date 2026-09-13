@@ -13,7 +13,7 @@
     "android": {
       "package": "com.donn_baldoza.pharmalala",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/avatar.png",
+        "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#0d7377"
       }
     },

@@ -12,6 +12,8 @@ dist-check/
 web-build/
 
 # native builds
+android/
+ios/
 android/build/
 android/app/build/
 ios/build/
