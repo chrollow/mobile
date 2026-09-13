@@ -31,7 +31,7 @@
       "eas": {
         "projectId": "bc3e3873-cf3d-45af-915d-584eb3f4744e"
       },
-      "apiUrl": "http://192.168.254.165:4000"
+      "apiUrl": "https://mobile-ax1t.onrender.com"
     }
   }
 }
