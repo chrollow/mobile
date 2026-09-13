@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "PharmAlala",
+    "slug": "pharmalala",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "owner": "donn_baldoza",
+    "icon": "./assets/icon.png",
+    "android": {
+      "package": "com.donn_baldoza.pharmalala",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#0d7377"
+      }
+    },
+    "plugins": [
+      "@react-native-community/datetimepicker",
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/icon.png",
+          "color": "#0d7377"
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "bc3e3873-cf3d-45af-915d-584eb3f4744e"
+      }
+    }
+  }
+}

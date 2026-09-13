@@ -1,0 +1,27 @@
+# secrets
+.env
+*.env
+
+# deps
+node_modules/
+
+# expo / react native
+.expo/
+dist/
+web-build/
+
+# native builds
+android/build/
+android/app/build/
+ios/build/
+*.keystore
+*.jks
+
+# eas
+.easignore
+
+# logs / os
+npm-debug.log*
+*.log
+.DS_Store
+Thumbs.db
