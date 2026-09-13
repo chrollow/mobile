@@ -9,11 +9,11 @@
       "web"
     ],
     "owner": "donn_baldoza",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/avatar.png",
     "android": {
       "package": "com.donn_baldoza.pharmalala",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/icon.png",
+        "foregroundImage": "./assets/avatar.png",
         "backgroundColor": "#0d7377"
       }
     },
@@ -22,7 +22,7 @@
       [
         "expo-notifications",
         {
-          "icon": "./assets/icon.png",
+          "icon": "./assets/avatar.png",
           "color": "#0d7377"
         }
       ]
@@ -30,7 +30,8 @@
     "extra": {
       "eas": {
         "projectId": "bc3e3873-cf3d-45af-915d-584eb3f4744e"
-      }
+      },
+      "apiUrl": "http://192.168.254.165:4000"
     }
   }
 }
