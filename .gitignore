@@ -8,6 +8,7 @@ node_modules/
 # expo / react native
 .expo/
 dist/
+dist-check/
 web-build/
 
 # native builds
